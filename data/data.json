@@ -1,0 +1,96 @@
+{
+	"File Created": "Fri Jun 27 15:59:58 IST 2025",
+	"Username": "arsh",
+	"Current Balance": "22230.0",
+	"Total Transactions": "8",
+	"Account Creation Time": "Fri Jun 27 15:52:22 IST 2025",
+	"Tags": [],
+	"Transactions": [
+		{
+			"Transaction Id": "Tran_1751019742530",
+			"Amount": "0.0",
+			"Type": "INIT",
+			"Transaction Time": "Fri Jun 27 15:52:22 IST 2025",
+			"Description": "Initial Amount",
+			"Tags": [
+				"init"
+			]
+		},
+		{
+			"Transaction Id": "Tran_1751019796713",
+			"Amount": "50000.0",
+			"Type": "CREDIT",
+			"Transaction Time": "Fri Jun 27 15:53:16 IST 2025",
+			"Description": "salary",
+			"Tags": [
+				"salary",
+				"monthly"
+			]
+		},
+		{
+			"Transaction Id": "Tran_1751019814777",
+			"Amount": "2000.0",
+			"Type": "DEBIT",
+			"Transaction Time": "Fri Jun 27 15:53:34 IST 2025",
+			"Description": "groceries",
+			"Tags": [
+				"food",
+				"grocery"
+			]
+		},
+		{
+			"Transaction Id": "Tran_1751019834967",
+			"Amount": "550.0",
+			"Type": "DEBIT",
+			"Transaction Time": "Fri Jun 27 15:53:54 IST 2025",
+			"Description": "wifi",
+			"Tags": [
+				"wifi",
+				"utilities"
+			]
+		},
+		{
+			"Transaction Id": "Tran_1751019855762",
+			"Amount": "220.0",
+			"Type": "DEBIT",
+			"Transaction Time": "Fri Jun 27 15:54:15 IST 2025",
+			"Description": "swiggy",
+			"Tags": [
+				"food"
+			]
+		},
+		{
+			"Transaction Id": "Tran_1751019935597",
+			"Amount": "12000.0",
+			"Type": "DEBIT",
+			"Transaction Time": "Fri Jun 27 15:55:35 IST 2025",
+			"Description": "Flat Rent",
+			"Tags": [
+				"rent",
+				"monthly"
+			]
+		},
+		{
+			"Transaction Id": "Tran_1751019974889",
+			"Amount": "6000.0",
+			"Type": "DEBIT",
+			"Transaction Time": "Fri Jun 27 15:56:14 IST 2025",
+			"Description": "Tiffins (monthly)",
+			"Tags": [
+				"food",
+				"monthly"
+			]
+		},
+		{
+			"Transaction Id": "Tran_1751020074992",
+			"Amount": "7000.0",
+			"Type": "DEBIT",
+			"Transaction Time": "Fri Jun 27 15:57:54 IST 2025",
+			"Description": "Flat Deposit",
+			"Tags": [
+				"rent",
+				"monthly"
+			]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+# Ignore compiled class files
+*.class
+
+# Ignore Eclipse project files
+/.classpath
+/.project
+/.settings/
+
+# Ignore build output folders
+/bin/
+/build/
+/out/
+
+# Ignore generated JAR files
+*.jar
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Maven/Gradle files (if any)
+/target/
+/.gradle/
+
+# Ignore Eclipse local launch configurations
+*.launch

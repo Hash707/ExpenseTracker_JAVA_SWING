@@ -1,0 +1,33 @@
+TransactionId,Amount,Current Balance,Type,TimeStamp,Description,Tags
+TransactionId,Amount,Current Balance,Type,TimeStamp,Description,Tags
+Tran_1751006409242,10000.0,10000.0,INIT,Fri Jun 27 12:10:09 IST 2025,Initial Amount,init
+Tran_1751006446286,10000.0,20000.0,CREDIT,Fri Jun 27 12:10:46 IST 2025,remaining salary,salary
+Tran_1751006462899,20.0,19980.0,DEBIT,Fri Jun 27 12:11:02 IST 2025,milk,food;milk
+Tran_1751006500373,20.0,19960.0,DEBIT,Fri Jun 27 12:11:40 IST 2025,auto: pg to office (12th march),travel
+TransactionId,Amount,Current Balance,Type,TimeStamp,Description,Tags
+Tran_1751019742530,0.0,0.0,INIT,Fri Jun 27 15:52:22 IST 2025,Initial Amount,init
+Tran_1751019796713,50000.0,50000.0,CREDIT,Fri Jun 27 15:53:16 IST 2025,salary,salary;monthly
+Tran_1751019814777,2000.0,48000.0,DEBIT,Fri Jun 27 15:53:34 IST 2025,groceries,food;grocery
+Tran_1751019834967,550.0,47450.0,DEBIT,Fri Jun 27 15:53:54 IST 2025,wifi,wifi;utilities
+Tran_1751019855762,220.0,47230.0,DEBIT,Fri Jun 27 15:54:15 IST 2025,swiggy,food
+Tran_1751019935597,12000.0,35230.0,DEBIT,Fri Jun 27 15:55:35 IST 2025,Flat Rent,rent;monthly
+Tran_1751019974889,6000.0,29230.0,DEBIT,Fri Jun 27 15:56:14 IST 2025,Tiffins (monthly),food;monthly
+Tran_1751020074992,7000.0,22230.0,DEBIT,Fri Jun 27 15:57:54 IST 2025,Flat Deposit,rent;monthly
+Tran_1751020288860,20.0,22210.0,DEBIT,Fri Jun 27 16:01:28 IST 2025,auto,travel
+Tran_1751020311235,20.0,22190.0,DEBIT,Fri Jun 27 16:01:51 IST 2025,auto: office to pg,travel
+Tran_1751020325833,23.0,22167.0,DEBIT,Fri Jun 27 16:02:05 IST 2025,df,adf
+Tran_1751020341541,23.0,22144.0,DEBIT,Fri Jun 27 16:02:21 IST 2025,milk,food
+Tran_1751020361228,70.0,22074.0,DEBIT,Fri Jun 27 16:02:41 IST 2025,tooth brush (sensodine),ammenities
+Tran_1751020395207,500.0,21574.0,DEBIT,Fri Jun 27 16:03:15 IST 2025,food - party,food
+Tran_1751020414538,20.0,21554.0,DEBIT,Fri Jun 27 16:03:34 IST 2025,auto: pg to office (27th June),
+Tran_1751020464251,20.0,21534.0,DEBIT,Fri Jun 27 16:04:24 IST 2025,auto: office to pg (27th June),
+Tran_1751020486983,1000.0,20534.0,DEBIT,Fri Jun 27 16:04:46 IST 2025,Exam Form (Random),
+Tran_1751020515588,550.0,21084.0,CREDIT,Fri Jun 27 16:05:15 IST 2025,Snacks Reimbursment,refund
+Tran_1751020543594,20.0,21064.0,DEBIT,Fri Jun 27 16:05:43 IST 2025,Corn,split
+Tran_1751020566639,400.0,20664.0,DEBIT,Fri Jun 27 16:06:06 IST 2025,Thali at Ashapura,food;split
+Tran_1751020616586,360.0,20304.0,DEBIT,Fri Jun 27 16:06:56 IST 2025,Thali * 3 at Dadi ka Khajana,food; split
+Tran_1751020654886,100.0,20404.0,CREDIT,Fri Jun 27 16:07:34 IST 2025,From shikhar for thali,split
+Tran_1751020671247,400.0,20004.0,DEBIT,Fri Jun 27 16:07:51 IST 2025,Thali * 4,food;split
+Tran_1751020687547,20.0,19984.0,DEBIT,Fri Jun 27 16:08:07 IST 2025,milk,food
+Tran_1751020696990,40.0,19944.0,DEBIT,Fri Jun 27 16:08:16 IST 2025,eggs,food
+Tran_1751020741922,50.0,19894.0,DEBIT,Fri Jun 27 16:09:01 IST 2025,2 * parathe from dadi ka khajava,food
